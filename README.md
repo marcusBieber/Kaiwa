@@ -91,10 +91,5 @@ Dieses Projekt steht unter der MIT-Lizenz. Mehr dazu in der Datei [`LICENSE`](LI
 Falls du Feedback hast oder mitwirken möchtest, erstelle gerne ein **Issue** oder **Pull Request** in unserem GitHub-Repository!
 
 📧 **Kontakt:** biebermarcus1@gmail.com  
-🔗 **Projekt-Link:** [GitHub Repository hier einfügen]
-
----
-
-📝 *Danke, dass du dir Zeit genommen hast, über unser Projekt zu lesen!* 😊
 
 
