@@ -22,7 +22,7 @@
 
 - **Frontend:** React
 - **Backend:** Express.js, Socket.io
-- **Datenbank:** SQLite
+- **Datenbank:** SQLite3
 - **Cloud:** AWS
 
 ---
@@ -33,7 +33,7 @@ Führe die folgenden Schritte aus, um die Anwendung lokal zu testen:
 
 ### 1️⃣ Repository klonen
 ```sh
- git clone https://github.com/dein-repository/kaiwa.git
+ git clone https://github.com/marcusBieber/kaiwa.git
 ```
 
 ### 2️⃣ Navigiere in das Projektverzeichnis
