@@ -65,9 +65,8 @@ Führe diesen Befehl in den jeweiligen Ordnern aus:
 
 ---
 
-## 📸 Screenshots / GIFs
+## 📸 Screenshots
 
-Füge hier Bilder oder GIFs deiner Anwendung ein, um sie visuell zu präsentieren.
 
 ![Kaiwa Screenshot](frontend/src/Components/login.png)  
 ![Kaiwa Screenshot](frontend/src/Components/app.png)  
