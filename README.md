@@ -1,13 +1,13 @@
 # Kaiwa - Realtime Chat-App
 
-![Kaiwa Logo](https://via.placeholder.com/800x200.png?text=Kaiwa+Chat-App)  
+![Kaiwa Logo](frontend/src/Components/kaiwa-Logo.png)  
 *Eine Echtzeit-Chat-Anwendung als Praxisprojekt*
 
 ---
 
 ## 📌 Über das Projekt
 
-**Kaiwa** ist eine Echtzeit-Chat-App, die es Nutzern ermöglicht, Nachrichten in Echtzeit zu senden und zu empfangen. Die Anwendung wurde als Gemeinschaftsprojekt im Rahmen unseres Praxis-Projekts entwickelt (*14.10.-28.10.2024*) während unserer Weiterbildung zum **Dev/Ops- und Cloud-Engineer**.
+**Kaiwa** ist eine Echtzeit-Chat-App, die es Nutzern ermöglicht, Nachrichten in Echtzeit zu senden und zu empfangen. Die Anwendung wurde als Gemeinschaftsprojekt im Rahmen unseres Praxis-Projekts mit agilen Methoden entwickelt (*14.10.-28.10.2024*) während unserer Weiterbildung zum **Dev/Ops- und Cloud-Engineer**.
 
 🔹 **Teammitglieder:**  
 - **Ilona Görgens** (*Styling und Benutzerfreundlichkeit, Express.js-Boilerplate*)
@@ -69,8 +69,9 @@ Führe diesen Befehl in den jeweiligen Ordnern aus:
 
 Füge hier Bilder oder GIFs deiner Anwendung ein, um sie visuell zu präsentieren.
 
-![Kaiwa Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+Kaiwa)  
-*(Beispielhafte Platzhalter-Grafik – hier echte Screenshots einfügen!)*
+![Kaiwa Screenshot](frontend/src/Components/login.png)  
+![Kaiwa Screenshot](frontend/src/Components/app.png)  
+
 
 ---
 
@@ -81,14 +82,6 @@ Füge hier Bilder oder GIFs deiner Anwendung ein, um sie visuell zu präsentiere
 - **Mobile App-Version mit React Native** 📱
 
 ---
-
-## 📜 Lizenz
-Dieses Projekt steht unter der MIT-Lizenz. Mehr dazu in der Datei [`LICENSE`](LICENSE).
-
----
-
-## 🤝 Kontakt & Mitwirken
-Falls du Feedback hast oder mitwirken möchtest, erstelle gerne ein **Issue** oder **Pull Request** in unserem GitHub-Repository!
 
 📧 **Kontakt:** biebermarcus1@gmail.com  
 
